@@ -1,0 +1,6 @@
+.x{
+   display: grid; 
+   grid-template-rows: 100px 100px;
+   grid-template-columns: 100px 200px 300px 400px 500px;
+}
+
